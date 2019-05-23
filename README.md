@@ -1,4 +1,4 @@
-# Como formatar e instalar o Windows 10. 
+# Formatando e instalando Windows 10. 
 # Confira o passo a passo
 
 Você sabe como formatar seu computador e atualizar a sua versão do Windows para a última versão, a 10? Descubra como fazer isso. O passo a passo foi compartilhado pelo PH Tutorial no You Tube e você confere agora.
